@@ -30,7 +30,8 @@
 </div>
 
 <div align="center">
-  <img width="700" height="394" alt="Respondus Lockdown Browser" src="https://github.com/user-attachments/assets/respondus-lockdown-browser-banner" />
+  <img width="1670" height="942" alt="8d876ab3-802c-4150-81d5-daac1c99cb4f" src="https://github.com/user-attachments/assets/4aaeb1d2-ac85-4d4c-9386-3a67f012dc69" />
+
 </div>
 
 ---
